@@ -1,0 +1,15 @@
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.csproj.AssemblyReference.cache
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.AssemblyInfoInputs.cache
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.AssemblyInfo.cs
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.csproj.CoreCompileInputs.cache
+/home/sardor/Documents/lesson8(HM)/Hm1/bin/Debug/net6.0/Hm1
+/home/sardor/Documents/lesson8(HM)/Hm1/bin/Debug/net6.0/Hm1.deps.json
+/home/sardor/Documents/lesson8(HM)/Hm1/bin/Debug/net6.0/Hm1.runtimeconfig.json
+/home/sardor/Documents/lesson8(HM)/Hm1/bin/Debug/net6.0/Hm1.dll
+/home/sardor/Documents/lesson8(HM)/Hm1/bin/Debug/net6.0/ref/Hm1.dll
+/home/sardor/Documents/lesson8(HM)/Hm1/bin/Debug/net6.0/Hm1.pdb
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.dll
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/ref/Hm1.dll
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.pdb
+/home/sardor/Documents/lesson8(HM)/Hm1/obj/Debug/net6.0/Hm1.genruntimeconfig.cache
